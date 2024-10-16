@@ -1,0 +1,38 @@
+body{
+    
+    background-image: url(111_West57.webp);
+
+    background-attachment:fixed;
+    background-repeat:no-repeat;
+    background-position: center;
+    background-size:cover;
+}
+h1{
+    color:black;
+    font-family: "Sixtyfour Convergence""sans-serif"; 
+    font-style:italic;
+    font-weight:bold;
+    font-size:100px;
+}
+p{
+    background-color: azure;
+    color:blue;
+    font-style: italic;
+    font-weight:bold;
+    text-decoration: dotted underline;
+    border-style:dotted;
+    border-width:2px;
+    border-color:blue;
+    border-radius:10px;
+    padding:5px;
+}
+#p1
+{
+    background-color: bisque;
+    color: black;
+}
+#p2
+{
+    background-color: blanchedalmond;
+    color:blue;
+}
